@@ -1,0 +1,41 @@
+body {
+  background-image: url("image/s.jpg");
+  background-size: cover;
+    
+}
+ .container{
+  border: 2px solid;
+  height: 500px;
+  width: 400px;
+  margin: 200px 400px;
+  background-color: rgba(255, 0, 0, 0.159);
+  box-shadow: 8px 8px 16px; 
+  
+}
+input{
+ margin: 10px;
+    height: 30px;
+width: 250px;
+position: relative;
+top: 100px;
+left: 70px;
+border-radius: 5px;
+background-color: rgba(255, 255, 0, 0.238);
+color:white;
+box-shadow: 4px 4px 8px green;
+
+}
+a{
+  position: relative;
+  top: 100px;
+left: 80px;
+color: blue;
+
+}
+h1{
+
+position: relative;
+top: 80px;
+left: 80px;
+text-shadow: 2px 2px 4px red;
+}
